@@ -17,6 +17,7 @@ cd spring-petclinic
 java -jar target/*.jar
 ```
 1
+2
 
 You can then access the Petclinic at <http://localhost:8080/>.
 
