@@ -18,6 +18,7 @@ java -jar target/*.jar
 ```
 1
 2
+3
 
 You can then access the Petclinic at <http://localhost:8080/>.
 
